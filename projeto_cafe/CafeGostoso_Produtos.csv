@@ -1,0 +1,26 @@
+produto_id,produto_descricao,produto_categoria
+1,Café Expresso,bebidas
+2,Café com Leite,bebidas
+3,Cappuccino,bebidas
+4,Sanduíche de Frango,sanduiches
+5,Sanduíche de Peru,sanduiches
+6,Bolo de Chocolate,sobremesas
+7,Bolo de Cenoura,sobremesas
+8,Salada Caesar,saladas
+9,Salada Grega,saladas
+10,Coxinha,petiscos
+11,Croissant,petiscos
+12,Suco Natural,bebidas
+13,Chá Gelado,bebidas
+14,Panqueca,sobremesas
+15,Empada de Frango,petiscos
+16,Quiche de Queijo,petiscos
+17,Salada Tropical,saladas
+18,Torta de Maçã,sobremesas
+19,Torrada,petiscos
+20,Milkshake,bebidas
+21,Bolo de Laranja,sobremesas
+22,Suco Detox,bebidas
+23,Sanduíche Vegetariano,sanduiches
+24,Muffin,sobremesas
+25,Espetinho de Queijo,petiscos
